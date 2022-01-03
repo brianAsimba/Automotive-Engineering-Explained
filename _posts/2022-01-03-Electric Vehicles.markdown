@@ -31,7 +31,7 @@ Types of Automotive:
 </ul>
 
 <figure>
-<img src="" style="display: block; margin: auto;"/>
+<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Technology%20Life%20Cycle.png" style="display: block; margin: auto;"/>
 <figcaption>Branches of Machine Learning</figcaption> 
 </figure>
 
