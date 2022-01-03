@@ -32,8 +32,9 @@ Types of Automotive:
 
 <figure>
 <img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Technology%20Life%20Cycle.png" style="display: block; margin: auto;"/>
-<figcaption>Technology life cycle</figcaption> 
+<figcaption>Technology Life Cycle</figcaption> 
 </figure>
+
 
 
 
