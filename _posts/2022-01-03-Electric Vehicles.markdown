@@ -48,6 +48,12 @@ An inverter is used to convert the DC to AC, which is utilized to power the elec
 In EVs, when the accelerator pedal is pressed, a signal is sent to the controller which adjusts the car speed by changing the frequency of the AC power from the inverter to the motor. The motor then turns the wheel through a cog. When the brakes are pressed or the car is decelerating from removing the pressure from the acceleration pedal, the motor becomes the alternator and produces power which is sent back to the battery. When the car is slowing down, the kinetic energy of the car is turned to electricity and stored in the battery and hence slows down the vehicle. In an EV, we exploit this, and it is called ‘Regenerative Braking’. This way we recapture some of the kinetic energy and improve the overall efficiency of the vehicle. Due to the regenerative braking, it is possible to drive an EV using one pedal.
 
 ## Some EV terms to know:
+<figure>
+<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Technology%20Life%20Cycle.png" style="display: block; margin: auto;"/>
+<figcaption>Technology Life Cycle</figcaption> 
+</figure>
+
+
 <ul>
  <li>Traction battery pack – Function as an electric energy storage system in the form of direct current electricity. The batteries used are rechargeable and are arranged in packs. </li>
 <li>Inverter – Function is to change the DC to AC. The AC is then used by an electric motor. It also functions to change the AC to DC during the regenerative braking and to store the energy in the battery.</li>
@@ -66,6 +72,13 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
  <li>Rapid charging – Rated up to 43kW. Up to 30-60 mins.</li>
  </ul>
 </ul>
+
+
+<figure>
+<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Technology%20Life%20Cycle.png" style="display: block; margin: auto;"/>
+<figcaption>Technology Life Cycle</figcaption> 
+</figure>
+
 There are different types of Electric vehicles: hybrid electric vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles.
 
 ## BEVs:
