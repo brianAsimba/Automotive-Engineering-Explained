@@ -14,7 +14,7 @@ A brief background about me, I have been in the automotive field for the last 7 
 
 What to go through in my blog:
 o	Modern Automotive trends - ICE, BEVs, PHEVs, Hybrids.<b>
-o	Stages in the Automotive development process – TT, VP, PP, SOP.<b><b><b>
+o	Stages in the Automotive development process – TT, VP, PP, SOP.<b>
 o	Unibody, BOF – Body-On-Frame (With Skateboard).<b>
 o	Dive into the stamping.<b>
 o	Assembly – Joining process etc.<b>
