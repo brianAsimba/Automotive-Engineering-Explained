@@ -55,7 +55,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 
 
 <ul>
- <li>Traction battery pack – Function as an electric energy storage system in the form of direct current electricity. The batteries used are rechargeable and are arranged in packs. </li>
+<li>Traction battery pack – Function as an electric energy storage system in the form of direct current electricity. The batteries used are rechargeable and are arranged in packs. </li>
 <li>Inverter – Function is to change the DC to AC. The AC is then used by an electric motor. It also functions to change the AC to DC during the regenerative braking and to store the energy in the battery.</li>
 <li>Electric traction motor - Turn the wheels using power from the traction battery pack. Generally, the brushless motors are used.</li>
 <li>Auxiliary battery- Provides electricity to power vehicle accessories.</li>
@@ -79,7 +79,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 <figcaption>Rapid Charging</figcaption> 
 </figure>
 
-There are different types of Electric vehicles: hybrid electric vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles.
+<p>There are different types of Electric vehicles: hybrid electric vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles.</p>
 
 ## BEVs:
 Battery Electric Vehicles (BEVs) run entirely on battery and the electric drive train. The BEVs are charged by plugging into the electricity grid. Traction battery provides the power to one or multiple motors to run the electric vehicles. Vehicles can have a singe motor, dual motor, tri-motor, or quad-motors. 
