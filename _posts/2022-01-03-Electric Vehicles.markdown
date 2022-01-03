@@ -13,15 +13,18 @@ There is a paradigm shift in the automotive industry, which is pushing the Autom
 A brief background about me, I have been in the automotive field for the last 7 years working for a Tier 1 Supplier as well as EV OEM companies for the last 5 years. I have been worked mainly in the Crash analysis and Stamping side of automotive which involves working with CAD from the designers to the buyoff of the tools to be run for production.Manufacturing a vehicle involves various teams: manufacturing, design, stamping, body engineering, general assembly, studio, sales and marketing to name a few. 
 
 What to go through in my blog:
-o	Modern Automotive trends - ICE, BEVs, PHEVs, Hybrids.<b>
-o	Stages in the Automotive development process – TT, VP, PP, SOP.<b>
-o	Unibody, BOF – Body-On-Frame (With Skateboard).<b>
-o	Dive into the stamping.<b>
-o	Assembly – Joining process etc.<b>
-o	Materials – metals, plastics.<b>
-o	Crash analysis.<b>
-o	GD&T.<b>
-o	Software’s usage in Automotive.<b>
+<ul>
+  <li>First item</li>
+<li>o	Modern Automotive trends - ICE, BEVs, PHEVs, Hybrids.</li>
+<li>o	Stages in the Automotive development process – TT, VP, PP, SOP.</li>
+<li>o	Unibody, BOF – Body-On-Frame (With Skateboard).</li>
+<li>o	Dive into the stamping.</li>
+<li>o	Assembly – Joining process etc.</li>
+<li>o	Materials – metals, plastics.</li>
+<li>o	Crash analysis.</li>
+<li>o	GD&T.</li>
+<li>o	Software’s usage in Automotive.</li>
+ </ul>
 Types of Automotive:
 •	Internal Combustion Engines (ICE) – Powered by an Engine.<b>
 •	Battery Electric Vehicles – Powered by battery packs and electricity.<b>
