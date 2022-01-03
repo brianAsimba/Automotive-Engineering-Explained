@@ -30,6 +30,10 @@ Types of Automotive:
 <li>	Battery Electric Vehicles – Powered by an electric motor.</li>
 </ul>
 
+<figure>
+<img src="" style="display: block; margin: auto;"/>
+<figcaption>Branches of Machine Learning</figcaption> 
+</figure>
 
 Technology Life cycle.
 Electric vehicles are growing in numbers as the technology is reaching technological maturity. Electric vehicles are environmentally friendly as they do not produce carbon emissions and are also quiet. Electric vehicles are powered by a motor, instead of an engine which powers the Internal Combustion Engines (ICE). 
