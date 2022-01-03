@@ -86,8 +86,9 @@ Examples are Porsche Cayan SE Hybrid, Audi 13 E-Tron.</p>
 <p>Fuel Cell Electric Vehicle:<br>
 Known as Zero Emission Electric Vehicles. Utilize the fuel cell technology to generate electricity required to run the vehicles. The chemical energy is then converted into electric energy.</p>
 
-EV Challenges:
-One of the biggest issues with Electric Vehicles are charging times, availability of charging stations and vehicle range. Currently, the EV with the highest range is the Lucid Dream with a range north of 500 miles in a single charge. With technology improving rapidly in the EV space, very soon it will be a non-issue for people who wish to own EVs that have range anxiety.
+<p>EV Challenges:<br>
+One of the biggest issues with Electric Vehicles are charging times, availability of charging stations and vehicle range. Currently, the EV with the highest range is the Lucid Dream with a range north of 500 miles in a single charge. With technology improving rapidly in the EV space, very soon it will be a non-issue for people who wish to own EVs that have range anxiety.<br>
+ 
 More than the range anxiety is the possibility of finding rapid charging stations. This is coupled with the charging times to have the battery at 80% capacity. Most EV companies are currently installing level 2 and level 3 chargers in convenient locations that will ease these issues. The charging time is also dramatically reducing with the advancement of charging technologies. There are also charging companies that are setting up charging stations all over the country to reach the saturation of gas stations in the future.
 Electric vehicle range is dependent on the battery size. The higher the EV battery power, the further you travel on a singe charge. 
 
