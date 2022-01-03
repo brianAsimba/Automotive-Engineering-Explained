@@ -95,8 +95,8 @@ Examples of Zero Emission Electric Vehicles are <strong>Toyota Mirai, Hyundai ix
 # EV Challenges:
 <p>One of the biggest issues with Electric Vehicles are <strong>charging times, availability of charging stations and vehicle range</strong>. Currently, the EV with the highest range is the Lucid Dream with a range north of 500 miles in a single charge. With technology improving rapidly in the EV space, very soon it will be a non-issue for people who wish to own EVs that have range anxiety.<br>
  
-More than the range anxiety is the possibility of finding <strong>rapid charging stations</strong>. This is coupled with the charging times to have the battery at 80% capacity. Most EV companies are currently installing level 2 and level 3 chargers in convenient locations that will ease this issue. The charging time is also dramatically reducing with the advancement of charging technologies. There are also charging companies that are setting up charging stations all over the country to reach the saturation of gas stations in the future. 
+More than the range anxiety is the possibility of finding <strong>rapid charging stations</strong>. This is coupled with the charging times to have the battery at 80% capacity. Most EV companies are currently installing level 2 and level 3 chargers in convenient locations that will ease this issue. The charging time is also dramatically reducing with the advancement of charging technologies. There are also charging companies that are setting up charging stations all over the country to reach the saturation of gas stations in the future.</p>
 
-References:
+# References:
 1.	Morse, L. C., Schell, W. J., & Babcock, D. L. (2020). Managing Engineering and Technology. Pearson Higher 	Education, Inc. 
 
