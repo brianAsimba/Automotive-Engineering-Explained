@@ -45,10 +45,7 @@ An inverter is used to convert the DC to AC, which is utilized to power the elec
 
 In EVs, when the accelerator pedal is pressed, a signal is sent to the controller which adjusts the car speed by changing the frequency of the AC power from the inverter to the motor. The motor then turns the wheel through a cog. When the brakes are pressed or the car is decelerating from removing the pressure from the acceleration pedal, the motor becomes the alternator and produces power which is sent back to the battery. When the car is slowing down, the kinetic energy of the car is turned to electricity and stored in the battery and hence slows down the vehicle. In an EV, we exploit this, and it is called ‘Regenerative Braking’. This way we recapture some of the kinetic energy and improve the overall efficiency of the vehicle. Due to the regenerative braking, it is possible to drive an EV using one pedal.
 
-
-
-
-#Some EV terms to know:
+# Some EV terms to know:
 <ul>
  <li>Traction battery pack – Function as an electric energy storage system in the form of direct current electricity. The batteries used are rechargeable and are arranged in packs. </li>
 <li>Inverter – Function is to change the DC to AC. The AC is then used by an electric motor. It also functions to change the AC to DC during the regenerative braking and to store the energy in the battery.</li>
