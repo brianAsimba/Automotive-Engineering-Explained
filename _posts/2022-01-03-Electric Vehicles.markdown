@@ -14,16 +14,15 @@ A brief background about me, I have been in the automotive field for the last 7 
 
 What to go through in my blog:
 <ul>
-  <li>First item</li>
 <li>o	Modern Automotive trends - ICE, BEVs, PHEVs, Hybrids.</li>
 <li>o	Stages in the Automotive development process – TT, VP, PP, SOP.</li>
-<li>o	Unibody, BOF – Body-On-Frame (With Skateboard).</li>
-<li>o	Dive into the stamping.</li>
-<li>o	Assembly – Joining process etc.</li>
+<li>o	Body Structure - Unibody, Body-On-Frame (BOF).</li>
+<li>o	Stamping.</li>
+<li>o	Joining process - Adhesives, welding, brazing etcetera.</li>
 <li>o	Materials – metals, plastics.</li>
 <li>o	Crash analysis.</li>
-<li>o	GD&T.</li>
-<li>o	Software’s usage in Automotive.</li>
+<li>o	Geometric Deimensioning and Tolerancing (GD&T).</li>
+<li>o	Automotive disruptors e.g. Autonomous driving, Car As A Service, Vehicle to Vehicle etcetera.</li>
  </ul>
 Types of Automotive:
 •	Internal Combustion Engines (ICE) – Powered by an Engine.<b>
