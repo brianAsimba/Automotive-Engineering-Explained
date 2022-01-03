@@ -35,7 +35,6 @@ Types of Automotive:
 <figcaption>Technology Life cycle.</figcaption> 
 </figure>
 
-
 Electric vehicles are growing in numbers as the technology is reaching technological maturity. Currently, the EVs have matured to become a viable option to the ICE. This is due to drastic improvement in the battery technologies as well as reduction in battery prices. Electric vehicles are environmentally friendly as they do not produce carbon emissions and are also quiet. Electric vehicles are powered by a motor, instead of an engine which powers the Internal Combustion Engines (ICE). 
 Whereas ICE vehicles, function by converting the thermal energy to mechanical energy through pistons in the engine, the EVs are powered by electric motors which gets energy from a controller based on the driver’s use of the accelerator. The EVs have rechargeable batteries.
 
