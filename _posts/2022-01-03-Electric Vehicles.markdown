@@ -82,14 +82,14 @@ Examples are Honda Civic Hybrid and Toyota Prius Hybrid.</p>
  
 # Plug-In Hybrid Electric Vehicles (PHEVs):
 <p>PHEVs contain both an ICE and an Electric motor just like the Hybrid Vehicles. They provide both the gasoline fuel option and a rechargeable battery.
-PHEVs have a charging port and hence can be charged externally by plugging into an electrical outlet and an electrical charging station. They can run 2 modes, the all-electric mode where the motors provide all the car’s energy required or hybrid mode where both electricity and gasoline fuels provide are utilized.<b>
+PHEVs have a charging port and hence can be charged externally by plugging into an electrical outlet and an electrical charging station. They can run 2 modes, the all-electric mode where the motors provide all the car’s energy required or hybrid mode where both electricity and gasoline fuels provide are utilized.
  
 Examples are Porsche Cayan SE Hybrid, Audi 13 E-Tron.</p>
  
 # Fuel Cell Electric Vehicle:
 Known as Zero Emission Electric Vehicles. Utilize the fuel cell technology to generate electricity required to run the vehicles. The chemical energy is then converted into electric energy.</p>
  
-<p>Examples of Zero Emission Electric Vehicles are Toyota Mirai, Hyundai ix35 FCEV.
+Examples of Zero Emission Electric Vehicles are Toyota Mirai, Hyundai ix35 FCEV.
 
 # EV Challenges:
 <p>One of the biggest issues with Electric Vehicles are charging times, availability of charging stations and vehicle range. Currently, the EV with the highest range is the Lucid Dream with a range north of 500 miles in a single charge. With technology improving rapidly in the EV space, very soon it will be a non-issue for people who wish to own EVs that have range anxiety.<br>
