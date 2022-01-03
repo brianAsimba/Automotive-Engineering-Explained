@@ -48,7 +48,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 
 
 
-Some EV terms to know:
+#Some EV terms to know:
 <ul>
  <li>Traction battery pack – Function as an electric energy storage system in the form of direct current electricity. The batteries used are rechargeable and are arranged in packs. </li>
 <li>Inverter – Function is to change the DC to AC. The AC is then used by an electric motor. It also functions to change the AC to DC during the regenerative braking and to store the energy in the battery.</li>
@@ -69,24 +69,24 @@ Some EV terms to know:
 </ul>
 There are different types of Electric vehicles: hybrid electric vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles.
 
-<p>BEVs:<br>
+#<p>BEVs:<br>
 Battery Electric Vehicles (BEVs) run entirely on battery and the electric drive train. The BEVs are charged by plugging into the electricity grid. Traction battery provided the power to one or multiple motors to tun the electric vehicles. This is where vehicles that have singe motor, dual motor, trimotor, or quad-motor come in. 
 Examples of BEVs are Tesla models S, X, Y and 3; Rivian models R1T, R1S, EDV; Ford Mach-E and F150 Lightning to name a few.</p>
 
-<p>Hybrid Electric Vehicles:<br>
+#<p>Hybrid Electric Vehicles:<br>
 Also known as Standard Hybrid Vehicles or Parallel Hybrid Vehicles. 
 The Hybrid Vehicles contain both the Internal Combustion Engine and an Electric motor. The ICE gets the energy from fuel such as gasoline and the Electric motor gets the power from the battery. The transmission is powered by both ICE and Electric motors.
 In the Hybrid Vehicles, the battery can only be charged by the ICE, the speed of the wheels or a combination of both. There is no way to charge the vehicles externally due to the absence of a charging port. Examples are Honda Civic Hybrid and Toyota Prius Hybrid.</p>
  
-<p>Plug-In Hybrid Electric Vehicles (PHEVs):<br>
+#<p>Plug-In Hybrid Electric Vehicles (PHEVs):<br>
 PHEVs contain both an ICE and an Electric motor just like the Hybrid Vehicles. They provide both the gasoline fuel option and a rechargeable battery.
 PHEVs have a charging port and hence can be charged externally by plugging into an electrical outlet and an electrical charging station. They can run 2 modes, the all-electric mode where the motors provide all the car’s energy required or hybrid mode where both electricity and gasoline fuels provide are utilized.
 Examples are Porsche Cayan SE Hybrid, Audi 13 E-Tron.</p>
  
-<p>Fuel Cell Electric Vehicle:<br>
+#<p>Fuel Cell Electric Vehicle:<br>
 Known as Zero Emission Electric Vehicles. Utilize the fuel cell technology to generate electricity required to run the vehicles. The chemical energy is then converted into electric energy.</p>
 
-<p>EV Challenges:<br>
+#<p>EV Challenges:<br>
 One of the biggest issues with Electric Vehicles are charging times, availability of charging stations and vehicle range. Currently, the EV with the highest range is the Lucid Dream with a range north of 500 miles in a single charge. With technology improving rapidly in the EV space, very soon it will be a non-issue for people who wish to own EVs that have range anxiety.<br>
  
 More than the range anxiety is the possibility of finding rapid charging stations. This is coupled with the charging times to have the battery at 80% capacity. Most EV companies are currently installing level 2 and level 3 chargers in convenient locations that will ease these issues. The charging time is also dramatically reducing with the advancement of charging technologies. There are also charging companies that are setting up charging stations all over the country to reach the saturation of gas stations in the future.
