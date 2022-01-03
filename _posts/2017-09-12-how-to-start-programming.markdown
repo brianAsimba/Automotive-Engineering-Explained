@@ -1,15 +1,16 @@
 ---
 layout: post
-title: How To Start Programming
+title: Types of EVs and how EVs work
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
-tags: [Programming, Learn] # add tag
+comments:true
+tags: [EVs, BEVs, PHEVs, HEVs, Fuel Cells, Automotive Engineering] # add tag
 ---
 
+## Transportation Sector Disruption                                                                   
+There is a paradigm shift in the automotive industry, which is pushing the Automotive industry to change as has never been seen before. Electric Vehicles and Autonomous driving are some of the biggest technologies disrupting the automotive field. Traditional OEMs are faced with a major challenge of shifting to Electric Vehicles to fight off the Electric Vehicles pure-plays while also fighting with technology giants like Apple and Google who are also interested in the autonomous vehicles. In this blog, I will be covering the automotive design and manufacturing.
 
-                                                                       
-There is a paradigm shift in the automotive industry, which is pushing the Automotive industry to change as has never been seen before. Electric Vehicles and Autonomous driving are some of the biggest forces in the automotive field. Traditional OEMs are faced with a major challenge of shifting to Electric Vehicles to fight off the Electric Vehicles pure-plays while also fighting with technology giants like Apple and Google who are also interested with the autonomous driving. In this blog, I will be covering the automotive design and manufacturing.
 A brief background about me, I have been in the automotive field for the last 7 years working for a Tier 1 Supplier as well as EV OEM companies for the last 5 years. I have been worked mainly in the Crash analysis and Stamping side of automotive which involves working with CAD from the designers to the buyoff of the tools to be run for production.
 Manufacturing a vehicle involves various teams to create a vehicle. It involves various teams to make a viable vehicle: manufacturing, design, stamping, body engineering, general assembly, studio, sales and marketing to name a few. 
 What to go through in my blog:
