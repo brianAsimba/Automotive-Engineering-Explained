@@ -49,7 +49,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 
 ## Some EV terms to know:
 <figure>
-<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Technology%Skateboard.png" style="display: block; margin: auto;"/>
+<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Skateboard.jpeg" style="display: block; margin: auto;"/>
 <figcaption>Chassis</figcaption> 
 </figure>
 
