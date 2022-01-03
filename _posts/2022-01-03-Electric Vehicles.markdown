@@ -26,9 +26,11 @@ What to go through in my blog:
  </ul>
 Types of Automotive:
 <ul>
-<li> Internal Combustion Engines (ICE) – Powered by an Engine.</li>
-<li>	Battery Electric Vehicles – Powered by battery packs and electricity.</li>
+<li> Internal Combustion Engines (ICE) – Powered by an engine.</li>
+<li>	Battery Electric Vehicles – Powered by an electric motor.</li>
 </ul>
+
+
 Technology Life cycle.
 Electric vehicles are growing in numbers as the technology is reaching technological maturity. Electric vehicles are environmentally friendly as they do not produce carbon emissions and are also quiet. Electric vehicles are powered by a motor, instead of an engine which powers the Internal Combustion Engines (ICE). 
 Whereas ICE vehicles, function by converting the thermal energy to mechanical energy through pistons in the engine, the EVs are powered by electric motors which gets energy from a controller based on the driver’s use of the accelerator. The EVs have rechargeable batteries.
