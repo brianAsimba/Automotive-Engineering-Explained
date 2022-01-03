@@ -13,18 +13,18 @@ There is a paradigm shift in the automotive industry, which is pushing the Autom
 A brief background about me, I have been in the automotive field for the last 7 years working for a Tier 1 Supplier as well as EV OEM companies for the last 5 years. I have been worked mainly in the Crash analysis and Stamping side of automotive which involves working with CAD from the designers to the buyoff of the tools to be run for production.Manufacturing a vehicle involves various teams: manufacturing, design, stamping, body engineering, general assembly, studio, sales and marketing to name a few. 
 
 What to go through in my blog:
-<p>o	Modern Automotive trends - ICE, BEVs, PHEVs, Hybrids.</p>
-o	Stages in the Automotive development process – TT, VP, PP, SOP.
-o	Unibody, BOF – Body-On-Frame (With Skateboard).
-o	Dive into the stamping.
-o	Assembly – Joining process etc.
-o	Materials – metals, plastics.
-o	Crash analysis.
-o	GD&T.
-o	Software’s usage in Automotive.
+o	Modern Automotive trends - ICE, BEVs, PHEVs, Hybrids.<b>
+o	Stages in the Automotive development process – TT, VP, PP, SOP.<b><b><b>
+o	Unibody, BOF – Body-On-Frame (With Skateboard).<b>
+o	Dive into the stamping.<b>
+o	Assembly – Joining process etc.<b>
+o	Materials – metals, plastics.<b>
+o	Crash analysis.<b>
+o	GD&T.<b>
+o	Software’s usage in Automotive.<b>
 Types of Automotive:
-•	Internal Combustion Engines (ICE) – Powered by an Engine.
-•	Battery Electric Vehicles – Powered by battery packs and electricity.
+•	Internal Combustion Engines (ICE) – Powered by an Engine.<b>
+•	Battery Electric Vehicles – Powered by battery packs and electricity.<b>
  
 Technology Life cycle.
 Electric vehicles are growing in numbers as the technology is reaching technological maturity. Electric vehicles are environmentally friendly as they do not produce carbon emissions and are also quiet. Electric vehicles are powered by a motor, instead of an engine which powers the Internal Combustion Engines (ICE). 
