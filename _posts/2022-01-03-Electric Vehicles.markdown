@@ -66,6 +66,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 
 ![Tesla Charging.jpeg]({{site.baseurl}}/assets/img/Tesla Charging.jpeg)
 
+
 <p>There are different types of Electric vehicles: hybrid electric vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles.</p>
 
 ## BEVs:
