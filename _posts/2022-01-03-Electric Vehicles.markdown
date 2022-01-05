@@ -55,7 +55,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 <li>Transmission – Transmits power from the electric traction motor to drive the wheels.</li>
 <li>kW – Unit of power for how much energy is required for a device to work.</li>
 <li>kWH – Unit showing how much energy has been used, e.g., 100 W lightbulb uses 0.1kWH.</li>
- </ul>
+</ul>
 <ul>
 <li>Charging speeds:
 <li>Slow charging – Rated up to 3kW, often used to charge overnight.</li>
