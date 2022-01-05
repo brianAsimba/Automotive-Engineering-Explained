@@ -32,9 +32,6 @@ Types of Automotive:
 
 ![Technology Life Cycle]({{site.baseurl}}/assets/img/Technology Life Cycle.png)
 
-
-
-
 Electric vehicles are growing in numbers as the technology is reaching technological maturity. Currently, the EVs have matured to become a viable option to the ICE. This is due to drastic improvement in the battery technologies as well as reduction in battery prices. Electric vehicles are environmentally friendly as they do not produce carbon emissions and are also quiet. Electric vehicles are powered by a motor, instead of an engine which powers the Internal Combustion Engines (ICE). 
 Whereas ICE vehicles, function by converting the thermal energy to mechanical energy through pistons in the engine, the EVs are powered by electric motors which gets energy from a controller based on the driver’s use of the accelerator. The EVs have rechargeable batteries.
 
@@ -45,11 +42,7 @@ An inverter is used to convert the DC to AC, which is utilized to power the elec
 In EVs, when the accelerator pedal is pressed, a signal is sent to the controller which adjusts the car speed by changing the frequency of the AC power from the inverter to the motor. The motor then turns the wheel through a cog. When the brakes are pressed or the car is decelerating from removing the pressure from the acceleration pedal, the motor becomes the alternator and produces power which is sent back to the battery. When the car is slowing down, the kinetic energy of the car is turned to electricity and stored in the battery and hence slows down the vehicle. In an EV, we exploit this, and it is called ‘Regenerative Braking’. This way we recapture some of the kinetic energy and improve the overall efficiency of the vehicle. Due to the regenerative braking, it is possible to drive an EV using one pedal.
 
 ## Some EV terms to know:
-<figure>
-<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Skateboard.jpeg" style="display: block; margin: auto;"/>
-<figcaption>Chassis</figcaption> 
-</figure>
-
+![Skateboard.jpeg]({{site.baseurl}}/assets/img/Skateboard.jpeg)
 
 <ul>
 <li>Traction battery pack – Function as an electric energy storage system in the form of direct current electricity. The batteries used are rechargeable and are arranged in packs. </li>
@@ -71,10 +64,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
 </ul>
 
 
-<figure>
-<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Tesla%20Charging.jpeg" style="display: block; margin: auto;"/>
-<figcaption>Rapid Charging</figcaption> 
-</figure>
+![Tesla Charging.jpeg]({{site.baseurl}}/assets/img/Tesla Charging.jpeg)
 
 <p>There are different types of Electric vehicles: hybrid electric vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles.</p>
 
