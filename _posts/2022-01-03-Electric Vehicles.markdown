@@ -62,7 +62,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
  <li>Rapid charging – Rated up to 43kW. Up to 30-60 mins.</li>
  </ul></ul>
 
-
+Rapid Charging
 ![Tesla Charging.jpeg]({{site.baseurl}}/assets/img/Tesla Charging.jpeg)
 
 
