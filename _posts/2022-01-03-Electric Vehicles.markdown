@@ -60,8 +60,7 @@ In EVs, when the accelerator pedal is pressed, a signal is sent to the controlle
  <li>Slow charging – Rated up to 3kW, often used to charge overnight.</li>
  <li>Fast charging – Rated at 7-22 kW. Installed at car parks, supermarkets, and houses. 3-4 hrs.</li>
  <li>Rapid charging – Rated up to 43kW. Up to 30-60 mins.</li>
- </ul>
- </ul>
+ </ul></ul>
 
 
 ![Tesla Charging.jpeg]({{site.baseurl}}/assets/img/Tesla Charging.jpeg)
