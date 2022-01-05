@@ -1,4 +1,4 @@
----
+n---
 layout: post
 title: Types of EVs and how EVs work
 date: 2022-01-03 00:00:00 +0300
@@ -30,7 +30,7 @@ Types of Automotive:
 <li>	Battery Electric Vehicles – Powered by an electric motor.</li>
 </ul>
 
-![I and My friends]({{site.baseurl}}/assets/img/Technology Life Cycle.png)
+![Technology Life Cycle]({{site.baseurl}}/assets/img/Technology Life Cycle.png)
 
 
 
