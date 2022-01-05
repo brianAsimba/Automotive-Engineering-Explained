@@ -30,10 +30,7 @@ Types of Automotive:
 <li>	Battery Electric Vehicles – Powered by an electric motor.</li>
 </ul>
 
-<figure>
-<img src="https://github.com/brianAsimba/Automotive-Engineering-Explained/blob/master/assets/img/Technology Life Cycle.png" style="display: block; margin: auto;"/>
-<figcaption>Technology Life Cycle</figcaption> 
-</figure>
+![I and My friends]({{site.baseurl}}/assets/img/Technology Life Cycle.png)
 
 
 
